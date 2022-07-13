@@ -1,11 +1,11 @@
-# buildspace x thirdweb - Build your own DAO with just Javascript
+# WEB3DEV x thirdweb - construa sua própria DAO com apenas Javascript
 
-### **Welcome 👋**
-To get started with this project, clone this repo and follow these commands:
+### **Bem vind@s 👋**
+Para iniciar com esse projeto, clone o repo e siga esses comandos:
 
-1. Run `npm install` at the root of your directory
-2. Run `npm start` to start the project
-3. Start coding!
+1. Rode `npm install` no diretório raiz
+2. Rode `npm start` para iniciar o projeto
+3. Comece a codar!
 
-### **Questions?**
-Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/projects/COb520aae3-7925-42f4-a5e7-eaf718933766) and link your Discord account so you can get access to helpful channels and your instructor!
+### **Perguntas?**
+Faça link da sua conta do Discord na [página no bootcamp](https://bootcamp.web3dev.com.br/courses/JS_DAO) para ter acesso aos canais de ajuda e monitores no servidor da WEB3DEV
