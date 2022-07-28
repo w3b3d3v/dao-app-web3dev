@@ -35,7 +35,7 @@ const token = sdk.getToken("0x551ab187397F8A2a7a599557C13cb2279071d4D5")
 
     await vote.propose(description, executions)
 
-    console.log("✅ Proposta de cunhar tokens criado com sucesso!")
+    console.log("✅ Proposta de cunhar tokens criada com sucesso!")
   } catch (error) {
     console.error("falha ao criar primeira proposta", error)
     process.exit(1)
